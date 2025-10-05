@@ -1,0 +1,7 @@
+echo "# TheSpaceRangersss" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lawliet0703/TheSpaceRangersss.git
+git push -u origin main
